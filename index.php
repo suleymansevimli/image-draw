@@ -1,0 +1,3 @@
+<?php
+    // php kodlarımızı Yazıyoruz
+ ?>
